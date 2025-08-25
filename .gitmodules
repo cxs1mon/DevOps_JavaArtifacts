@@ -1,0 +1,3 @@
+[submodule "DevOps_textSamples"]
+	path = DevOps_textSamples
+	url = https://github.com/cxs1mon/DevOps_textSamples.git
