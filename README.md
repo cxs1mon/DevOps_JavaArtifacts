@@ -25,7 +25,8 @@ Ins Artefakt:
     </distributionManagement>
 
 Danach:
-- Artefakt deployen mit Maven
+- Artefakt bauen mit `mvn package`
+- Artefakt deployen `mvn deploy`
 - Im Hauptprojekt importieren mit den Werten vom pom.xml:
 
 

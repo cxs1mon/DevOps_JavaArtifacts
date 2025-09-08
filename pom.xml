@@ -29,6 +29,11 @@
             <artifactId>devops</artifactId>
             <version>1.0.0</version>
         </dependency>
-    </dependencies>
 
+        <dependency>
+            <groupId>com.example</groupId>
+            <artifactId>TheModule</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+    </dependencies>
 </project>
